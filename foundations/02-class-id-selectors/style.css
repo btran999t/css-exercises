@@ -1,0 +1,19 @@
+p {
+    background-color : rgb(185, 107, 120);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.second {
+    color : blue;
+    font-size : 36px;
+}
+
+p.third {
+    font-size : 24px;
+}
+
+div.forth {
+    background-color: rgb(115, 250, 110);
+    font-size: 24px;
+    font-weight: 700;
+}
+
